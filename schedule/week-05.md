@@ -10,12 +10,12 @@
   
 ### Readings to be presented
 
+  - [Experimenting at Scale With Google Chrome’s SSL Warning](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41927.pdf), by Felt et al. (2014). **Discussion lead: Kristy Edwards**
+
   
 ### Readings you may choose to present (students not presenting should read at least 1 and skim 1)
 
   - [A Large-Scale Study of Web Password Habits](https://cormac.herley.org/docs/www2007.pdf), by Florencio & Herley (2007).
-
-  - [Experimenting at Scale With Google Chrome’s SSL Warning](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41927.pdf), by Felt et al. (2014).
 
 
 ### Async responses/reflections due
