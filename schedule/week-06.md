@@ -15,7 +15,6 @@
 ### Async responses/reflections due
 
   - 6: Usable Security
-  - 7: Privacy
 
 ### Assignments due
 

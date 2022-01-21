@@ -21,7 +21,7 @@ Readings to be presented will appear here. Please send a message to your instruc
 
 ### Async responses/reflections due
 
-  - 14: Privacy Policies
+  - 13: Privacy Policies
 
 
 ### Assignments due

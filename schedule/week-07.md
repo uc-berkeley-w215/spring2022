@@ -15,7 +15,7 @@
 
 ### Async responses/reflections due
 
-  - 8: More Usable Security
+  - 7: Privacy
 
 
 ### Assignments due

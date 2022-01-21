@@ -20,7 +20,7 @@ Collaboration in the Case of the Panama Papers](https://www.usenix.org/system/fi
 
 ### Async responses/reflections due
 
-  - 13: Secure Communication
+  - 12: Secure Communication
 
 
 ### Assignments due

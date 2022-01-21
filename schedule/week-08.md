@@ -16,7 +16,7 @@
 
 ### Async responses/reflections due
 
-  - 9: Authentication
+  - 8: Usable Security and Authentication
 
 
 ### Assignments due

@@ -13,7 +13,7 @@
 
 ### Async responses/reflections due
 
-  - 12: Application Permissions
+  - 11: Mobile Permissions
 
 
 ### Assignments due
