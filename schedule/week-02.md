@@ -15,7 +15,7 @@
 
 ### Assignments due
 
-1.  Pick a cognitive bias from [this list](https://en.wikipedia.org/wiki/List_of_cognitive_biases). Create a slide to present in class that explains the bias and how it might impact users’ security or privacy behavior (or the study of that behavior).
+1.  Pick a cognitive bias from [this list](https://en.wikipedia.org/wiki/List_of_cognitive_biases). Create two slides to present in class that explain the bias and how it might impact users’ security or privacy behavior (or the study of that behavior).
 
 1.  Please spend a few minutes writing down your thoughts to each of these questions. Be prepared to share the answers to the first two questions with the class.
 
@@ -36,7 +36,9 @@ Also: remember to work on your IRB training, due on [Week 4](./schedule/week-04.
 ### Synchronous discussion agenda
 
   - Discussion of IRB reading
-
-  - Individuals present cognitive biases and answers to first two questions
   
+  - Presentations of cognitive biases
+  
+  - Discussion of readings
+
   - Discussion of mental models
