@@ -6,10 +6,11 @@
 
 - [A Week to Remember: The Impact of Browser Warning Storage Policies](https://www.usenix.org/system/files/conference/soups2016/soups2016-paper-weinberger.pdf), by Weinberger and Felt. **Discussion lead: Sai Avala**
 
+- [Put your warning where your link is: Improving and evaluating email phishing warnings](https://dl.acm.org/doi/pdf/10.1145/3290605.3300748), by Petelka et al. [(cached in course folder)](https://drive.google.com/file/d/1HbbNACeRtJBcfSxI2HXXfQ8Xq0XCzWuL/view?usp=sharing).  **Discussion lead: Devipriya Busireddy**
+
 ### Readings you may choose to present
 
 
-- [Put your warning where your link is: Improving and evaluating email phishing warnings](https://dl.acm.org/doi/pdf/10.1145/3290605.3300748), by Petelka et al. [(cached in course folder)](https://drive.google.com/file/d/1HbbNACeRtJBcfSxI2HXXfQ8Xq0XCzWuL/view?usp=sharing)
 
 - [Your attention please: Designing security-decision UIs to make genuine risks harder to ignore](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.365.837&rep=rep1&type=pdf), by Bravo-Lillo et al.
 
