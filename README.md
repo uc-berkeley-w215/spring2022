@@ -99,7 +99,7 @@ To receive full points for live session attendance and participation, you must h
 
 We use this public GitHub repository to [track discussion leads](/leading-paper-discussions.md). Contact the course instructors if you would prefer a more private option. For example, you may choose to use a pseudonym.
 
-### Async responses
+### Async Responses
 
 **Async responses/reflections are due 2 hours before the beginning of the live session**.  These are meant to consolidate your knowledge and demonstrate your understanding of the material.
 
