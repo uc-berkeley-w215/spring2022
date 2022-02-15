@@ -91,18 +91,23 @@ In addition to assignments that are turned into ISVC, you will also have assigne
 
 ## Participation
 
-Participation and taking an active part in every aspect of the course are key to internalizing the material of the course. Participation includes, but is not limited to, (i) active participation in live sessions, (ii) discussing assignments with other students, (iii) activity in the class Slack (by asking questions and/or contributing to answering other students’ questions), and (iv) submitting responses to the async content where required.  **Async responses/reflections are due 2 hours before the beginning of the live session**.
+Participation and taking an active part in every aspect of the course are key to internalizing the material of the course. Participation includes, but is not limited to, (i) active participation in live sessions, (ii) discussing assignments with other students, (iii) activity in the class Slack (by asking questions and/or contributing to answering other students’ questions), and (iv) submitting responses to the async content where required.
 
 To receive full points for live session attendance and participation, you must have audio and video setup to connect to class from a comfortable, distraction-free environment (i.e. please do not join class from your car or the like). You should be prepared to engage in discussion with the rest of the class either verbally or in the chat when prompted. Any asynchronous assignments are expected to be completed prior to the live session to allow full participation in the learning activities.
 
 ### Your privacy while participating
 
-We use this public GitHub repository to [track discussion leads](/papers-led.md). Contact the course instructors if you would prefer a more private option. For example, you may choose to use a pseudonym for discussion leads.
+We use this public GitHub repository to [track discussion leads](/leading-paper-discussions.md). Contact the course instructors if you would prefer a more private option. For example, you may choose to use a pseudonym.
 
+### Async responses
+
+**Async responses/reflections are due 2 hours before the beginning of the live session**.  These are meant to consolidate your knowledge and demonstrate your understanding of the material.
+
+In previous classes we have seen async responses that copy-paste from the transcripts of the lessons or copy a definition from Wikipedia.  Please don’t do this.  We expect you to paraphrase or restate these concepts in your own words.
 
 ## Late Submission Policy
 
-In many cases, solutions to assignments will be discussed during the live sessions of the course. Therefore, any assignment that is submitted after the deadline will receive a grade of zero.
+In many cases, solutions to assignments will be discussed during the live sessions of the course. Therefore, any assignment that is submitted after the deadline will receive a grade of zero.  In some cases, late assignments may be submitted for partial credit with instructor approval.
 
 
 ## Readings
