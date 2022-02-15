@@ -15,6 +15,8 @@ You will design a research protocol to evaluate human behaviors or attitudes tha
 
 Pilot any components that can be piloted in the time available, and/or use peers from other project groups to identify ways to improve your protocol. Project groups will be either 2-3 people.
 
+### Final paper sections
+
 The final deliverable will be a research paper which should contain:
 
   - **Motivation**: Why the topic you chose is relevant and interesting in usable security and privacy.
@@ -86,7 +88,7 @@ Revise your project idea by integrating any feedback you've received.
 
 ### Week 8, before the live session
 
-Submit a **one-page project proposal** (10% of course grade) to the slot "*Project Proposal*" in ISVC.  You can start with the [project proposal structure](/project/proposals/proposal-structure-with-examples.md) and fill in related work, add additional questions, and provide more details about your study.
+Submit a **one-page project proposal** to the slot "*Group Project Proposal*" in ISVC.  You can start with the [project proposal structure](/project/proposals/proposal-structure-with-examples.md) and fill in related work, add additional questions, and provide more details about your study.  You should try to fill in as much as you can of the _Motivation_, _Research Question_, _Related Work_, and _Methodology_ sections of the [final paper](#final-paper-sections).
 
 ### Week 9, before the live session
 
