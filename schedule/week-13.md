@@ -2,6 +2,8 @@
 
 ### Readings to be presented
 
+  - [Standardizing Privacy Notices: An Online Study of the Nutrition Label Approach](https://www.cylab.cmu.edu/_files/pdfs/tech_reports/CMUCyLab09014.pdf), by Kelley et al. (2010) **Discussion lead: Niti Prasad**
+
   - [What Do Online Behavioral Advertising Privacy Disclosures Communicate to Users?](http://www.blaseur.com/papers/wpes2012-obaicons.pdf), by León et al. (2012)  **Discussion lead: Edgar Luna-Brito**
 
   - [Why is Privacy So Hard?](https://cacm.acm.org/blogs/blog-cacm/235401-why-is-privacy-so-hard/fulltext), by Jason Hong (2019). **Discussion lead: Niti Prasad**
@@ -9,7 +11,6 @@
 ### Readings you may choose to present (students not presenting should read at least 1 or skim 3)
 
   - [A Comparative Study of Online Privacy Policies and Formats](http://lorrie.cranor.org/pubs/authors-version-PETS-formats.pdf), by McDonald et al. (2009)
-  - [Standardizing Privacy Notices: An Online Study of the Nutrition Label Approach](https://www.cylab.cmu.edu/_files/pdfs/tech_reports/CMUCyLab09014.pdf), by Kelley et al. (2010)
 
 ### Optional readings (if you're really interested in this topic)
 
