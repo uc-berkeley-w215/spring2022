@@ -2,9 +2,9 @@
 
 ### Readings due
 
-  - [Judgment Under Uncertainty: Heuristics and Biases](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.229.1993&rep=rep1&type=pdf), by Tversky and Kahneman (1974).
+  - [Judgment Under Uncertainty: Heuristics and Biases](https://drive.google.com/file/d/1S574ZFjL3DwTBfWn5GhidCf5fKvM6s-x/view?usp=sharing), by Tversky and Kahneman (1974).
 
-  - [The Framing of Decisions and the Psychology of Choice](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.321.5479&rep=rep1&type=pdf), by Tversky and Kahneman (1981).
+  - [The Framing of Decisions and the Psychology of Choice](https://drive.google.com/file/d/1kBWYcLwA_xh4oTyPsLpMiDkr64_5BHo-/view?usp=sharing), by Tversky and Kahneman (1981).
 
   - [Institutional Review Board (IRB) and Ethical Issues in Clinical Research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3272525/), by Kim (2012).
 

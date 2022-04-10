@@ -10,7 +10,7 @@
 
 ### Readings you may choose to present
 
-- [Your attention please: Designing security-decision UIs to make genuine risks harder to ignore](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.365.837&rep=rep1&type=pdf), by Bravo-Lillo et al.
+- [Your attention please: Designing security-decision UIs to make genuine risks harder to ignore](https://drive.google.com/file/d/1la6SLKFGI1lzWEiY45DvVHnt8N_g5oIQ/view?usp=sharing), by Bravo-Lillo et al.
 
 ### Async responses/reflections due
 
